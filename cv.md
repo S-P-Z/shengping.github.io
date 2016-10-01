@@ -21,9 +21,6 @@ comments: false
   <br>
  <li> I spend eight months as a <strong>visiting student researcher</strong> at the <a href="https://www.berkeley.edu/">University of California, Berkeley </a> in <a href="http://redwood.berkeley.edu/">Prof. Bruno Olshausen</a>'s group. </li> 
  <br>
- <li> I started my academic career as a <strong> research and teaching assistant</strong> at the <a href="http://www.uni-hannover.de/">Leibniz University Hannover</a> in Germany, working in the <a href="https://www.tnt.uni-hannover.de/">Institute for Information Processing (TNT)</a> with <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li></ul> </div>
-
-  <br>
   
   
   <p align="center">
