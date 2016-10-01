@@ -1,13 +1,13 @@
-title:            Laura’s Home
-description:      Welcome to Laura’s world!
+title:            Shengping’s Home
+description:      Welcome to Shengping’s world!
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              https://lealtaixe.github.io
-disqus_shortname: lealtaixe
+url:              https://shengping.github.io
+disqus_shortname: shengping
 
 # Owner/author information
 owner:
-  name:           Laura Leal-Taixé
-  avatar:         laura_bw.png
+  name:           Shengping Zhang
+  avatar:         shengping.jpg
   bio:            I'm from the lively town of Barcelona! I currently work in Munich as a postdoctoral researcher, after spending some wonderful time in Zurich, Ann Arbor and Hannover. 
   email:          leal.taixe@tum.de
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
