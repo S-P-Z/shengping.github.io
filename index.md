@@ -11,19 +11,27 @@ image:
 
 <ul>
 
-<li>New <a href="ECCV2016.pdf"><font color="red"><strong>paper</strong></font></a> on face anti-spoofing accepted for ECCV 2016! </li>
+<li>New <a href="ECCV2016.pdf"><font color="red"><strong>paper</strong></font></a> on face anti-spoofing with remote photoplethysmography accepted for ECCV 2016! </li>
 
 <br>
 
-<li>New <a href="link.springer.com/content/pdf/10.1007/978-3-319-46478-7_6.pdf"><font color="red"><strong>paper</strong></font></a> on deep tracking accepted for CVPR 2016! </li>
+<li>New <a href="CVPR2016.pdf"><font color="red"><strong>paper</strong></font></a> on tracking using CNNs accepted for CVPR 2016! </li>
 
 <br>
 
-<li>New <a href="link.springer.com/content/pdf/10.1007/978-3-319-46478-7_6.pdf"><font color="red"><strong>paper</strong></font></a> on biologically inspired tracking accepted for TNNLS! </li>
+<li>New <a href="TNNLS2016.pdf"><font color="red"><strong>paper</strong></font></a> on tracking via biologically inspired appearance modelling accepted for TNNLS! </li>
 
 <br>
 
-<li>New <a href="https://arxiv.org/pdf/1604.07866.pdf"><font color="red"><strong>paper</strong></font></a> on tracking with siamese neural networks to be presented at the DeepVision workshop at CVPR 2016! </li>
+<li>New <a href="TNNLS2016.pdf"><font color="red"><strong>paper</strong></font></a> on tracking via joint discriminative feature learning accepted for IJCAI 2016! </li>
+
+<br>
+
+<li>New <a href="PNAS-2016-Wilf-Zhang-Serre.pdf"><font color="red"><strong>paper</strong></font></a> on leaf classification accepted for PNAS! </li>
+
+<br>
+
+<li>New <a href="TCSVT2016.pdf"><font color="red"><strong>paper</strong></font></a> on tracking via basis matching accepted for TCSVT! </li>
 
 <br>
 
