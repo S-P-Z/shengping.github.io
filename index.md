@@ -11,11 +11,11 @@ image:
 
 <ul>
 
-<li>New <a href="link.springer.com/content/pdf/10.1007/978-3-319-46478-7_6.pdf"><font color="red"><strong>paper</strong></font></a> on face anti-spoofing accepted for ECCV 2016! </li>
+<li>New <a href="ECCV2016.pdf"><font color="red"><strong>paper</strong></font></a> on face anti-spoofing accepted for ECCV 2016! </li>
 
 <br>
 
-<li>Daniel Cremers, Ian Reid, Rene Vidal and myself will be organizing a Dagstuhl Seminar on <a href="http://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17391"><strong>Deep Learning for Computer Vision</strong></a> in September 2017! </li>
+<li>New <a href="link.springer.com/content/pdf/10.1007/978-3-319-46478-7_6.pdf"><font color="red"><strong>paper</strong></font></a> on deep tracking accepted for CVPR 2016! </li>
 
 <br>
 
