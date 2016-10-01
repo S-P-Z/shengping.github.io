@@ -15,9 +15,11 @@ comments: false
     </p>
   <div style="text-align:center"><ul><li>I am an <strong> associate professor</strong> at the <a href="https://cs.hitwh.edu.cn/">School of Computer Science and Technology</a> of the <a href="http://www.hitwh.edu.cn/" target="_blank">Harbin Institute of Technology</a>. </li>
   <br>
- <li> Before, I spent two years as <strong>postdoc</strong> at <a href="https://www.ethz.ch/en.html">ETH Zurich</a> in the <a href="http://www.prs.igp.ethz.ch/">Photogrammetry and Remote Sensing group</a>, working with <a href="http://www.prs.igp.ethz.ch/content/specialinterest/baug/institute-igp/photogrammetry-and-remote-sensing/en/group/people/person-detail.html?persid=143986">Prof. Konrad Schindler</a>. </li> 
+ <li> Before, I spent almost two years as <strong>postdoc</strong> at <a href="https://www.hkbu.edu.hk">Hong Kong Baptist University</a>, working with <a href="http://www.comp.hkbu.edu.hk/~pcyuen/">Prof. Pong C. Yuen</a>. </li> 
+ <br>
+  <li> I spent a year as <strong>postdoc</strong> at <a href="https://www.brown.edu">Brown University</a>, working with <a href="http://serre-lab.clps.brown.edu">Prof. Thomas Serre</a>. </li> 
   <br>
- <li> I spend almost a year as a <strong>visiting scholar</strong> at the <a href="https://www.umich.edu/">University of Michigan</a> in <a href="http://cvgl.stanford.edu/silvio/">Prof. Silvio Savarese</a>'s group. </li> 
+ <li> I spend eight months as a <strong>visiting student researcher</strong> at the <a href="https://www.berkeley.edu/">University of California, Berkeley </a> in <a href="http://redwood.berkeley.edu/">Prof. Bruno Olshausen</a>'s group. </li> 
  <br>
  <li> I started my academic career as a <strong> research and teaching assistant</strong> at the <a href="http://www.uni-hannover.de/">Leibniz University Hannover</a> in Germany, working in the <a href="https://www.tnt.uni-hannover.de/">Institute for Information Processing (TNT)</a> with <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li></ul> </div>
 
