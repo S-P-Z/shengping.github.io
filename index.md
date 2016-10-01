@@ -11,7 +11,7 @@ image:
 
 <ul>
 
-<li>Check out or new <a href="https://arxiv.org/pdf/1607.07304"><font color="red"><strong>paper</strong></font></a> on integration of multi-level features for multi-target tracking! </li>
+<li>New <a href="link.springer.com/content/pdf/10.1007/978-3-319-46478-7_6.pdf"><font color="red"><strong>paper</strong></font></a> on face anti-spoofing accepted for ECCV 2016! </li>
 
 <br>
 
