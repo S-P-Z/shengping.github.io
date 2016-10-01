@@ -19,6 +19,10 @@ image:
 
 <br>
 
+<li>New <a href="link.springer.com/content/pdf/10.1007/978-3-319-46478-7_6.pdf"><font color="red"><strong>paper</strong></font></a> on biologically inspired tracking accepted for TNNLS! </li>
+
+<br>
+
 <li>New <a href="https://arxiv.org/pdf/1604.07866.pdf"><font color="red"><strong>paper</strong></font></a> on tracking with siamese neural networks to be presented at the DeepVision workshop at CVPR 2016! </li>
 
 <br>
